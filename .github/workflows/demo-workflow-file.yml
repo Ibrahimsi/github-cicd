@@ -7,5 +7,4 @@ jobs:
  steps:
  - uses: actions/checkout@v2
  - name: Write a multi-line message
- run: |
  run: echo "Hello World!"
